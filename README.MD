@@ -2,6 +2,8 @@
 
 Example exercise that publishes a service to consume through the Http protocol through its standardized request verbs.
 
+It is designed using Microsoft Visual Studio Community 2019.
+
 In this exercise I would like to highlight a series of elements that have been included in the code and that I detail below:
 
 ### Layered Architecture
