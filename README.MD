@@ -26,7 +26,7 @@ The code shows the example of the capture of error 404. An ApiController class h
 
 ## CONFIGURATION
 
-Tenemos dos ficheros Zip de la solución completa. Uno de ellos lleva incluido los paquetes que se han referenciado, lógicamente este fichero tiene una descarga mas lenta.
+In the Zip file is the complete solution in the absence of the "packages" folder that has not been included due to its large size.
 
 Inside we have a SQL Server script to create the simple data structure (bd_DotNetEx.sql). Some sample records are included.
 
