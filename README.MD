@@ -31,6 +31,7 @@ The code shows the example of the capture of error 404. An ApiController class h
 Use of entity modeling through Entity Framework. In this way it is not necessary to implement the mapping of the classes of entities with the tables of the database. The connection is independent.
 
 
+
 ## CONFIGURATION
 
 In the Zip file is the complete solution in the absence of the "packages" folder that has not been included due to its large size.
@@ -52,3 +53,26 @@ Microsoft AspNet.WebApi.Cors
 Microsoft.AspNet.WebApi.Client
 
 Microsoft.AspNet.WebApi.Core
+
+
+## URI's BY USE OF SERVICE
+
+### GET
+
+https://<server>/api/User
+
+### GET
+
+https://<server>/api/User/<Id>
+
+### PUT
+
+https://<server>/api/User/<Id>
+
+### POST
+
+https://<server>/api/User
+
+### DELETE
+
+https://<server>/api/User/<Id>
