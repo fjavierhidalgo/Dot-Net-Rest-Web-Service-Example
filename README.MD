@@ -59,20 +59,20 @@ Microsoft.AspNet.WebApi.Core
 
 ### GET
 
-https://<server>/api/User
+https://{root}/api/User
 
 ### GET
 
-https://<server>/api/User/<Id>
+https://{root}/api/User/{Id}
 
 ### PUT
 
-https://<server>/api/User/<Id>
+https://{root}/api/User/{Id}
 
 ### POST
 
-https://<server>/api/User
+https://{root}/api/User
 
 ### DELETE
 
-https://<server>/api/User/<Id>
+https://{root}/api/User/{Id}
